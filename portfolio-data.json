@@ -1,0 +1,146 @@
+{
+  "settings": {
+    "name": "Janvi Gupta",
+    "title": "Data Analyst",
+    "location": "India",
+    "summary": "Detail-oriented Data Analyst skilled in SQL, Python, Power BI, and statistical analysis to drive actionable insights.",
+    "profileImage": "https://raw.githubusercontent.com/JanviGupta2901/portfolio-assets/main/supawork-photo-20250813T213547992Z.png",
+    "primaryColor": "#0067c7"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:janvigupta.stu@gmail.com",
+          "isPrimary": true,
+          "icon": "mail"
+        },
+        {
+          "text": "Download Resume",
+          "url": "https://raw.githubusercontent.com/JanviGupta2901/portfolio-assets/main/JanviGupta_.pdf",
+          "isPrimary": false,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "Detail-oriented Data Analyst with experience in deriving actionable business insights and supporting data-driven decision-making. Skilled in SQL, Python, Power BI, Tableau, and statistical analysis. Familiar with applying machine learning techniques such as regression and clustering for business problem-solving. Adept at working with cross-functional teams.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "SQL",
+          "Python",
+          "Power BI",
+          "Tableau",
+          "Data Analysis",
+          "KPI Tracking",
+          "Data Mining",
+          "Data Cleansing",
+          "Data Validation",
+          "Reporting Automation"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "HCLTech",
+          "position": "Analyst",
+          "period": "Oct 2023 - Present",
+          "description": "Designed and developed SQL queries and Power BI dashboards to track acquisition KPIs, marketing efficiency, and revenue trends. Conducted data cleaning, KPI tracking, and statistical analysis to identify growth opportunities and improve decision-making. Automated data processing workflows using Python to improve reporting efficiency and accuracy by 20%. Partnered with cross-functional teams to define analytical requirements and translate them into actionable reporting solutions. Monitored and resolved data discrepancies using tools such as Moogsoft and SolarWinds, ensuring accuracy in analytics reports."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Prospect & Marketing KPI Dashboard",
+          "description": "Created a Power BI dashboard to monitor acquisition performance, improving strategic targeting and decision-making for leadership.",
+          "tags": [
+            "Power BI",
+            "Dashboard"
+          ],
+          "previewUrl": "https://raw.githubusercontent.com/JanviGupta2901/portfolio-assets/efd68e2123db0d8bc9bd1c91da544c9495154ef4/MyFirstDashboard.pbix"
+        },
+        {
+          "title": "Revenue Forecasting Model",
+          "description": "Built a predictive model in Python to estimate acquisition profitability and assist in marketing investment planning.",
+          "tags": [
+            "Python",
+            "Predictive Modeling"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Shri Ramswaroop Memorial College of Engineering and Management",
+          "degree": "B.Tech in Information Technology",
+          "period": "2019 - 2023"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "janvigupta.stu@gmail.com",
+      "phone": "+918299459871",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "#",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Janvi Gupta. All rights reserved."
+  }
+}
